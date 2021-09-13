@@ -1,1 +1,1 @@
-The website is avaliable at: https://Gwen-JW.githun.io/ .
+The website is avaliable at: https://Gwen-JW.github.io/ .
